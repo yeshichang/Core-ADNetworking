@@ -1,2 +1,2 @@
-# Core-ADNetworking
-替换AFN类型的ADN
+# Core-YSCNetworking
+替换AFN类型的YSCNetworking
